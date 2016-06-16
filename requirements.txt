@@ -24,7 +24,7 @@ redis==2.9.0
 requests==2.10.0
 sh==1.11
 six==1.10.0
-Sixpack==2.2.0
+Sixpack==2.3.0
 statsd==3.2.1
 webassets==0.8
 Werkzeug==0.9.1
